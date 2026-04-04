@@ -1,0 +1,5 @@
+=== Experiment Metrics (PCA - k=5) ===
+Optimal Threshold (EER approximation): 1427.40
+FAR (False Acceptance Rate): 0.00%
+FRR (False Rejection Rate): 0.00%
+Global Accuracy Evaluation: 100.00%
