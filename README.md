@@ -19,6 +19,9 @@ Bienvenue sur le dépôt officiel regroupant l'ensemble des travaux pratiques (T
 5. **[TP05 : Reconnaissance Faciale par Deep Learning](./TP05_Reconnaissance_Faciale_DL)** 
    Atteinte de l'état de l'art de la précision via des convolutions (Dlib). L'extraction de signatures faciales ultra résilientes en vecteurs purs (128 Dimensions) et mapping mathématique des distances par Cosinus ou matrice Euclidienne.
 
+6. **[TP06 : Tatouage Numérique par LSB (Spatial)](./TP06_Tatouage_Numerique_LSB)** 
+   Implémentation du tatouage numérique LSB (Least Significant Bit) pour la dissimulation de messages invisibles dans des images en niveaux de gris et RGB. Introduction d'une version sécurisée par accès pseudo-aléatoire via une clé secrète.
+
 ## Prérequis et Installation
 Les dépendances complètes du projet sont :
 - `Pillow`
