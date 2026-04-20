@@ -22,6 +22,9 @@ Bienvenue sur le dépôt officiel regroupant l'ensemble des travaux pratiques (T
 6. **[TP06 : Tatouage Numérique par LSB (Spatial)](./TP06_Tatouage_Numerique_LSB)** 
    Implémentation du tatouage numérique LSB (Least Significant Bit) pour la dissimulation de messages invisibles dans des images en niveaux de gris et RGB. Introduction d'une version sécurisée par accès pseudo-aléatoire via une clé secrète.
 
+7. **[TP06.2 : Tatouage Numérique par Patchwork](./TP06.2_Tatouage_Numerique_Patchwork)** 
+   Implémentation du tatouage statistique Patchwork. Algorithme additif robuste, simulations d'attaques (Bruit, JPEG, Flou) sur image RGB et étude de la robustesse comparée à la méthode LSB.
+
 ## Prérequis et Installation
 Les dépendances complètes du projet sont :
 - `Pillow`
